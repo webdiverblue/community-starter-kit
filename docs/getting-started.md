@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+for example you can buy bitcoin over the counter 
+for example you can buy bitcoin over the an exchange 
+for example you can buy bitcoin via bisq 
+for example you can buy bitcoin via relai 
+for example you can buy bitcoin via pocket bitcoin
+for example you can buy bitcoin over the counter 
