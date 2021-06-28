@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This projekt is so great.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+it contains some tools for stacking bitcoin
 
 ## Getting started
 
